@@ -18,9 +18,3 @@ Simple browser game made to refresh Scss and to get a simple start into TypeScri
  ### [Scale of The Solar System](https://scaleofthesolarsystem.netlify.app/)
  Simple website displaying scale and distances between the objects in the solar system.
   ###### Technologies: React
-
-
-#### What I've used:
-##### HTML | CSS | SCSS | JavaScript | TypeScript | React (Redux, Styled Components, React Router, Formik, Yup, SCSS Modules) | Vue | Firebase (Firestore, Real Time Database) | Figma
-#### Currently learning:
-##### programming paradigms
